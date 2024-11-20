@@ -32,6 +32,7 @@ function setup() {
       textAlign (CENTER,CENTER);
       stroke(60);
       strokeWeight(5);
+      text ("Meteorz",  width /2, height / 4 - 45);
       text("Want to play?", width / 2, height / 2 - 50);
       textSize(30);
   
