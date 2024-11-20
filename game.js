@@ -57,14 +57,14 @@ function setup() {
   }  
   function gameScreen () {
   background (255,255,0);
-  text ("Game", 200, 100);
+  text ("Game", 300, 100);
   }
   
       
   function gameOverScreen () {
   background (255,0,0);
   textFont('Helvetica'); //Font
-  text ("Game Over", 300, 100);
+  text ("You have lost", 300, 100);
   textAlign (CENTER);
   strokeWeight(5);
   textSize (62);
