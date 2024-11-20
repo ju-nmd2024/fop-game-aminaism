@@ -57,7 +57,6 @@ function setup() {
   }  
   function gameScreen () {
   background (255,255,0);
-  text ("Game", 300, 100);
   }
   
       
